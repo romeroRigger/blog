@@ -1,4 +1,11 @@
-# Maya paths
+---
+layout: post
+title: "Maya Paths"
+description: "How to configure maya paths"
+comments: true
+keywords: "Autodesk Maya 2017, python, MEL, setup"
+---
+
 
 *File path variables*
 [File path variables | Maya | Autodesk Knowledge Network](https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/Maya/files/GUID-228CCA33-4AFE-4380-8C3D-18D23F7EAC72-htm.html)
