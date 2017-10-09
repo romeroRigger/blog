@@ -6,7 +6,7 @@ comments: true
 keywords: "Autodesk Maya 2017, python, MEL, setup"
 ---
 
-Every day when anyone tries to learn about scripting in Maya, this big question start to be present, how I put my scripts in other place not just by default in "/scripts" folder. 
+Every day when anyone tries to learn about scripting in Maya, this big question start to be present, how I put my scripts in another place not just by default in "/scripts" folder. 
 
 Then after the days a tiny light appears with real solutions, please check the links
 
