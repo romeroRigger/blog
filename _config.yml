@@ -10,8 +10,8 @@ baseurl: "/blog" # apply repo name if use it under gh-pages branch
 
 google_analytics: UA-XXXXX-XX
 repo: https://github.com/romeroRigger/blog
-disqus_shortname: "hnbloggithub"
-twitter_username: "HeiswayiNrird"
+disqus_shortname: "romerorigger"
+twitter_username: "romerorigger"
 comments: true
 
 # Build settings
@@ -34,11 +34,11 @@ author:
   bio      : ".+"
   thumb    : /images/author.jpg
   email    : info@romerorigger.com
-  url      : http://heiswayi.github.io
+  url      : http://romeroRigger.github.io
   github   : http://github.com/heiswayi
-  twitter  : http://twitter.com/HeiswayiNrird
-  facebook : https://www.facebook.com/heiswayi.nrird
-  linkedin : http://linkedin.com/in/nrird
+  twitter  : http://twitter.com/romeroRigger
+  # facebook : https://www.facebook.com/heiswayi.nrird
+  linkedin : http://linkedin.com/in/romerorigger
 
 # social settings
 og_locale: "en_US"
