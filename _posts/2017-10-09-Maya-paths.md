@@ -18,5 +18,5 @@ Then after the days a tiny light appears with real solutions, please check the l
 
 
 
-<iframe src="https://player.vimeo.com/video/81537591" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/81537591?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
