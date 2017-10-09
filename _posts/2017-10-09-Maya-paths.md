@@ -19,5 +19,4 @@ Then after the days a tiny light appears with real solutions, please check the l
 
 
 <iframe src="https://player.vimeo.com/video/81537591" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/81537591">Maya Python - Maya Environment Variables</a> from <a href="https://vimeo.com/zurbrigg">Chris Zurbrigg</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
