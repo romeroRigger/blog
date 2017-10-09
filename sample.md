@@ -15,7 +15,9 @@ Teniendo como punto de partida lo anterior, explicare los pasos a seguir:
 
 ![pasos](/var/folders/rv/czftgw5500x8kdbchwj14zk00000gn/T/net.shinyfrog.bear/BearTemp.P8cwDy/pasos.jpg)
 
-
+```
+<a href="http://example.com/" target="_blank">example</a>
+```
 
 aclaro que podemos usar dir() de igual forma que see(), la visualización de los resultados as mas amigable con see().
 
