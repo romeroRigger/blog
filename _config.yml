@@ -1,13 +1,11 @@
-title: Slate theme
-url: "http://romerorigger.com"
-baseurl: "/projects"
+title: Researcher
+url: "http://ankitsultana.com"
+baseurl: "/researcher"
+
 markdown: kramdown
-traking_id: #
+
+tracking_id: #
+
 sass:
     style: compressed
     sass_dir: _sass
-
-description: Slate is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-slate
