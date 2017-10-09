@@ -13,7 +13,7 @@ repo: https://github.com/romeroRigger/blog
 disqus_shortname: "romerorigger"
 twitter_username: "romerorigger"
 linkedin_username: "romeroRigger"
-comments: true
+comments: false
 
 # Build settings
 permalink   : /:year/:title/
