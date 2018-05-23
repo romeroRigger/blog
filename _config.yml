@@ -1,33 +1,33 @@
 # Basic site info
-title:              "heiswayi nrird •••"
-description:        "Life Experience, Technology & Research"
-keywords:           "heiswayi nrird, personal blog, software engineer, life experience, technology and research"
-logo_text:          "Heiswayi Nrird"
+title:              "Rigging Course"
+description:        "Rigging Technology & Research"
+keywords:           "blog,rigging, Autodesk, Maya, technology and research"
+logo_text:          "Jaime Romero"
 show_tagline:       true # edit file in /_includes/tagline.html
 show_social_icons:  true # edit file in /_includes/social_links.html
 og_locale:          "en_US"
 cover:              "/assets/logo.png" # site image cover
 
 # Site URL settings
-url:                https://heiswayi.nrird.com # main url
+url:                https://romerorigger.github.io/teaching # main url
 baseurl:            null # for gh-pages
-enforce_ssl:        heiswayi.nrird.com
+enforce_ssl:        https://romerorigger.github.io/teaching/
 github_post_dir:    https://github.com/heiswayi/heiswayi.github.io/blob/master/
 
 # Site author info
 author:
-  name:             "Heiswayi Nrird"
-  email:            hnrird@gmail.com
-  github_username:  heiswayi
-  twitter_username: heiswayi
+  name:             "Jaime Romero"
+  email:            info@romerorigger.com
+  github_username:  romerorigger
+  twitter_username: romerorigger
   facebook_url:     
 
 # Disqus comment settings
-disqus_enabled:     false
-disqus_shortname:   hnbloggithub
+# disqus_enabled:     false
+# disqus_shortname:   hnbloggithub
 
 # Google Analytics ID
-google_analytics_code: UA-58296043-7
+# google_analytics_code: UA-58296043-7
 
 # Build settings
 source:             ./
@@ -35,7 +35,7 @@ destination:        ./_site
 permalink:          /:year/:title
 markdown:           kramdown
 highlighter:        rouge
-timezone:           Asia/Kuala_Lumpur
+timezone:           America/Colombia
 exclude:            ["README.md", "LICENSE.md", "CHANGELOG.md", "google9bb6a6dc60c4e360.html"]
 
 # Site configurations
