@@ -12,7 +12,7 @@ cover:              "/assets/logo.png" # site image cover
 url:                https://romerorigger.github.io/teaching # main url
 baseurl:            null # for gh-pages
 enforce_ssl:        https://romerorigger.github.io/teaching/
-github_post_dir:    https://github.com/heiswayi/heiswayi.github.io/blob/master/
+github_post_dir:    https://github.com/romeroRigger/teaching/tree/master/_posts
 
 # Site author info
 author:
