@@ -1,60 +1,57 @@
+# Basic site info
+title:              "heiswayi nrird •••"
+description:        "Life Experience, Technology & Research"
+keywords:           "heiswayi nrird, personal blog, software engineer, life experience, technology and research"
+logo_text:          "Heiswayi Nrird"
+show_tagline:       true # edit file in /_includes/tagline.html
+show_social_icons:  true # edit file in /_includes/social_links.html
+og_locale:          "en_US"
+cover:              "/assets/logo.png" # site image cover
 
-# SEO settings
-title: "Think"
-title2: "Rigging" # default: ""
-description: "Just another blog about Rigging."
-keywords: "Autodesk, Maya, Rigging, Rigger, Python, PyMel,API"
-url: https://romerorigger.github.io # site url
-baseurl: "/blog" # apply repo name if use it under gh-pages branch
-# baseurl: null # apply null if repo name is something like username.github.io
+# Site URL settings
+url:                https://heiswayi.nrird.com # main url
+baseurl:            null # for gh-pages
+enforce_ssl:        heiswayi.nrird.com
+github_post_dir:    https://github.com/heiswayi/heiswayi.github.io/blob/master/
 
-google_analytics: UA-XXXXX-XX
-repo: https://github.com/romeroRigger/blog
-disqus_shortname: "romerorigger"
-twitter_username: "romerorigger"
-linkedin_username: "romeroRigger"
-comments: false
+# Site author info
+author:
+  name:             "Heiswayi Nrird"
+  email:            hnrird@gmail.com
+  github_username:  heiswayi
+  twitter_username: heiswayi
+  facebook_url:     
+
+# Disqus comment settings
+disqus_enabled:     false
+disqus_shortname:   hnbloggithub
+
+# Google Analytics ID
+google_analytics_code: UA-58296043-7
 
 # Build settings
-permalink   : /:year/:title/
-markdown    : kramdown
-highlighter : rouge
+source:             ./
+destination:        ./_site
+permalink:          /:year/:title
+markdown:           kramdown
+highlighter:        rouge
+timezone:           Asia/Kuala_Lumpur
+exclude:            ["README.md", "LICENSE.md", "CHANGELOG.md", "google9bb6a6dc60c4e360.html"]
 
-source: ./
-destination: ./_site
+# Site configurations
+compress_html:
+  clippings:        all
+  comments:         ["<!-- ", " -->"]
+  endings:          all
+  ignore:
+    envs:           [local]
+  blanklines:       false
+  profile:          false
+  startings:        [html, head, body]
 
-# Sass configuration
 sass:
-  sass_dir: assets/scss
-  style: compressed # expanded
+  sass_dir:         assets/scss
+  style:            compressed # expanded
 
-# Author settings
-author:
-  name     : ""
-  job      : "Rigger, Jr. Tool Dev"
-  bio      : ""
-  thumb    : /images/author.jpg
-  email    : info@romerorigger.com
-  url      : http://romeroRigger.github.io
-  github   : http://github.com/romerorigger
-  twitter  : http://twitter.com/romeroRigger
-  # facebook : https://www.facebook.com/heiswayi.nrird
-  linkedin : http://linkedin.com/in/romerorigger
-
-# social settings
-og_locale: "en_US"
-twitter_card: "summary_large_image"
-twitter_site: "@romerorigger"
-
-gems:
-  - bourbon
-  - jekyll-paginate
-
-# navbar pages
-navbar:
-  - slug : about
-    title: About
-  - slug : blog
-    title: Blog
-
-exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
+plugins:
+  - jekyll-sitemap

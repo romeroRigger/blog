@@ -1,13 +1,11 @@
-# Thinkspace v2.1
+# Version 5.x
 
-Thinkspace is just another minimalist Jekyll theme which is best suit for technical writing, but not limited to. Good for personal blog type too or project-based blog. Disqus comment is included.
+This repository contains the source code of my personal blog, viewable at https://heiswayi.nrird.com. Built from scratch using [Jekyll](http://jekyllrb.com/) and being hosted automatically by GitHub Pages. The site is using icons from [Font Awesome](https://fortawesome.github.io/Font-Awesome/), and typefaces from [Inter UI](https://rsms.me/inter/).
 
-[**Live Demo**](http://heiswayi.github.io/thinkspace/)
+Blog URL: https://heiswayi.nrird.com
 
-### Screenshot
+### Licensing
 
-![Thinkspace Screenshot](http://i.imgur.com/IMQDB9e.png)
+Unless otherwise stated, all original code snippets presented inside this source code are licensed under the [MIT license](https://heiswayi.github.io/mit-license). All original photographs and texts (blog articles) inside this source code are licensed under a [CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/). If you have any questions about using any part of these materials (photographs or texts) for commercial purposes, please write me an email at hnrird@gmail.com.
 
-### License
-
-[MIT](LICENSE.md)
+© Handcrafted by [Heiswayi Nrird](http://heiswayi.github.io) with love.
