@@ -9,8 +9,8 @@ og_locale:          "es_la"
 cover:              "/assets/logo.png" # site image cover
 
 # Site URL settings
-url:                https://romerorigger.github.io # site url
-baseurl:            /teaching # for gh-pages
+url:                https://romerorigger.github.io/teaching # site url
+baseurl:            #/teaching # for gh-pages
 enforce_ssl:        romerorigger.github.io
 github_post_dir:    https://github.com/romeroRigger/teaching/tree/master/
 
