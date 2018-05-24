@@ -1,17 +1,17 @@
 # Basic site info
 title:              "Rigging Courses"
 description:        "Rigging Technology & Research"
-keywords: "Autodesk, Maya, Rigging, Rigger, Python, PyMel,API"
-logo_text:          "Jaime Romero"
+keywords:           "Autodesk, Maya, Rigging, Rigger, Python, PyMel,API"
+logo_text:          "J Romero"
 show_tagline:       true # edit file in /_includes/tagline.html
 show_social_icons:  true # edit file in /_includes/social_links.html
-og_locale:          "en_US"
+og_locale:          "es_la"
 cover:              "/assets/logo.png" # site image cover
 
 # Site URL settings
 url:                https://romerorigger.github.io # site url
 baseurl:            null # for gh-pages
-enforce_ssl:        false
+enforce_ssl:        null
 github_post_dir:    /_posts
 
 # Site author info
@@ -24,10 +24,10 @@ author:
 
 # Disqus comment settings
 # disqus_enabled:     false
-# disqus_shortname:   hnbloggithub
+# disqus_shortname:   
 
 # Google Analytics ID
-# google_analytics_code: UA-58296043-7
+# google_analytics_code:
 
 # Build settings
 source:             ./
