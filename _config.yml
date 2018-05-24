@@ -10,9 +10,9 @@ cover:              "/assets/logo.png" # site image cover
 
 # Site URL settings
 url:                https://romerorigger.github.io/ # site url
-baseurl:            null # for gh-pages
-enforce_ssl:        https://romerorigger.github.io/teaching
-github_post_dir:    https://github.com/romeroRigger/romerorigger.github.io/teaching/master/
+baseurl:            /teaching # for gh-pages
+enforce_ssl:        null
+github_post_dir:    /post
 
 
 # Site author info
@@ -22,6 +22,9 @@ author:
   github_username:  romerorigger
   twitter_username: romerorigger
  
+
+
+
 
 # Disqus comment settings
 # disqus_enabled:     false
