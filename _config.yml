@@ -12,7 +12,7 @@ cover:              "/assets/logo.png" # site image cover
 url:                https://romerorigger.github.io # site url
 baseurl:            null # for gh-pages
 enforce_ssl:        false
-github_post_dir:    /teaching
+github_post_dir:    /_posts
 
 # Site author info
 author:

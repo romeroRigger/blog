@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Quien?
 description: Informacion sobre la persona que comparte en este blog .
 keywords: about page, about me, jaime romero, autor
 ---
