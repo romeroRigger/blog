@@ -1,11 +1,11 @@
-# Version 5.x
+# Version 1.x
 
-This repository contains the source code of my personal blog, viewable at https://heiswayi.nrird.com. Built from scratch using [Jekyll](http://jekyllrb.com/) and being hosted automatically by GitHub Pages. The site is using icons from [Font Awesome](https://fortawesome.github.io/Font-Awesome/), and typefaces from [Inter UI](https://rsms.me/inter/).
+Este repositorio contiene el codigo base de un microblog, que puede ser visto en https://romerorigger.github.io/microblog y esta siendo almacenado automaticamente en GitHub. El sitio usa iconos de [Font Awesome](https://fortawesome.github.io/Font-Awesome/), y fuentes de [Inter UI](https://rsms.me/inter/).
 
-Blog URL: https://heiswayi.nrird.com
+### Licencia
 
-### Licensing
+Todo el codigo original dentro de este repositorio puede ser usado bajo licencia [MIT license](https://heiswayi.github.io/mit-license). Todo el material original o derivado (articulos de blog) dentro de este repositorio estan bajo licencia [CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/). Si tiene alguna pregunta sobre como usar parte de este material con propositos comerciales, por favor escribir un correo a info[at]romerorigger.com.
 
-Unless otherwise stated, all original code snippets presented inside this source code are licensed under the [MIT license](https://heiswayi.github.io/mit-license). All original photographs and texts (blog articles) inside this source code are licensed under a [CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/). If you have any questions about using any part of these materials (photographs or texts) for commercial purposes, please write me an email at hnrird@gmail.com.
+El codigo original fue suministrado por [Heiswayi Nrird](https://heiswayi.nrird.com) quien lo construyo desde cero usando [Jekyll](http://jekyllrb.com/)
 
 © Handcrafted by [Heiswayi Nrird](http://heiswayi.github.io) with love.
