@@ -13,7 +13,6 @@ url:                https://romerorigger.github.io # site url
 baseurl:            /teaching # for gh-pages
 enforce_ssl:        null
 github_post_dir:    https://github.com/romeroRigger/teaching/tree/master/
-# github_post_dir:    https://github.com/romeroRigger/teaching/tree/master/
 
 
 # Site author info
