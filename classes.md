@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Proyectos
-description: Hyperlinks to some of my projects and snippets.
+title: Clases
+description: vinculos a las clases y tutoriales que realizo
 keywords: pagina de proyectos, vinculos
 ---
 
@@ -20,4 +20,4 @@ keywords: pagina de proyectos, vinculos
 </ul>
 
 ## Rigging
-- [Rigging de Personajes](http://bit.ly/riggingPersonajes) - Intermedio
+- [Rigging de Personajes - CREHANA](http://bit.ly/riggingPersonajes) - Intermedio

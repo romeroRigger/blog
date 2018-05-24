@@ -12,7 +12,7 @@ keywords: pagina de proyectos, vinculos
     {% if post.tags contains "Project" %}
 
     <li>
-        <a href="{{ post.url }}">{{ post.title }}</a> — {{ post.description }}
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> — {{ post.description }}
     </li>
     
     {% endif %}
