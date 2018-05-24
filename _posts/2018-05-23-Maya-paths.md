@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Maya Paths"
-description: "How to configure maya paths"
-comments: false
-keywords: "Autodesk Maya 2017, python, MEL, setup"
+title: Maya Paths
+description: How to configure maya paths
+keywords: Autodesk Maya, python, MEL, setup
 ---
 
 Every day when anyone tries to learn about scripting in Maya, this big question start to be present, how I put my scripts in another place not just by default in "/scripts" folder. 
