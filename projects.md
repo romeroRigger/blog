@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Clases
+title: Proyectos
 description: Hyperlinks to some of my projects and snippets.
-keywords: projects page, hyperlinks, my snippets
+keywords: pagina de proyectos, vinculos
 ---
 
-## Published Posts tagged with "Project"...
+## Post publicados con tag "proyecto"
 
 <ul>
   {% for post in site.posts %}
@@ -28,5 +28,5 @@ keywords: projects page, hyperlinks, my snippets
 ### Scripts
 
 - [job Finder](http://romerorigger.com/projects/4GZE1?album_id=65845) - Buscador de empleo en CGI integrado a Autodesk Maya
-- [wire Deformer setup](http://nrird.xyz/proxy/) — Creacion de un sistema de deformacion por capas con deformadores wire
+- [wire Deformer setup](http://romerorigger.com/projects/EWLmN?album_id=65845) — Creacion de un sistema de deformacion por capas con deformadores wire
 - [offset](http://romerorigger.com/projects/JYl8A?album_id=65845) - Creacion de grupos offset para elementos seleccionados
