@@ -1,5 +1,5 @@
 # Basic site info
-title:              "Learning Rigging •••"
+title:              "Aprendiendo •••"
 description:        "Rigging Technology & Research"
 keywords:           "Autodesk, Maya, Rigging, Rigger, Python, PyMel,API"
 logo_text:          "Romero"
@@ -10,7 +10,7 @@ cover:              "/assets/logo.png" # site image cover
 
 # Site URL settings
 url:                https://romerorigger.github.io # site url
-baseurl:            /teaching # for gh-pages
+baseurl:            /microblog # for gh-pages
 enforce_ssl:        null
 github_post_dir:    https://github.com/romeroRigger/teaching/tree/master/
 
