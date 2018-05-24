@@ -10,9 +10,9 @@ cover:              "/assets/logo.png" # site image cover
 
 # Site URL settings
 url:                https://romerorigger.github.io/ # site url
-baseurl:            /teaching # for gh-pages
+baseurl:            /teaching/ # for gh-pages
 enforce_ssl:        null
-github_post_dir:    /post
+github_post_dir:    /post/
 
 
 # Site author info
