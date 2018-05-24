@@ -501,8 +501,13 @@ blockquote p:last-child {
                 color: #FF4136;
 
                 &:hover {
-                    color: #fff;
+                    color: #fff; 
                 }
+            &.bg-green {
+                color: #2ECC40;
+
+                &:hover {
+                    color: #fff;
             }
         }
     }
