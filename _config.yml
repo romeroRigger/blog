@@ -11,8 +11,9 @@ cover:              "/assets/logo.png" # site image cover
 # Site URL settings
 url:                https://romerorigger.github.io/ # site url
 baseurl:            null # for gh-pages
-enforce_ssl:        null
-github_post_dir:    /_posts
+enforce_ssl:        https://romerorigger.github.io/teaching
+github_post_dir:    https://github.com/romeroRigger/romerorigger.github.io/teaching/master/
+
 
 # Site author info
 author:
@@ -36,7 +37,7 @@ permalink:          /:year/:title
 markdown:           kramdown
 highlighter:        rouge
 timezone:           America/Colombia
-exclude:            ["README.md", "LICENSE.md", "CHANGELOG.md", "google9bb6a6dc60c4e360.html"]
+exclude:            ["README.md", "LICENSE.md", "CHANGELOG.md"]
 
 # Site configurations
 compress_html:
