@@ -1,5 +1,5 @@
 # Basic site info
-title:              "Rigging Courses"
+title:              "Learning Rigging •••"
 description:        "Rigging Technology & Research"
 keywords:           "Autodesk, Maya, Rigging, Rigger, Python, PyMel,API"
 logo_text:          "J Romero"
@@ -11,7 +11,7 @@ cover:              "/assets/logo.png" # site image cover
 # Site URL settings
 url:                https://romerorigger.github.io # site url
 baseurl:            null # for gh-pages
-enforce_ssl:        null
+enforce_ssl:        romerorigger.github.io
 github_post_dir:    https://github.com/romeroRigger/teaching/tree/master/
 
 
