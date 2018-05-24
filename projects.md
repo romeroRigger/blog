@@ -26,7 +26,6 @@ keywords: pagina de proyectos, vinculos
 - [BIT](http://romerorigger.com/projects/LJbW0?album_id=65844) - Propuesta serie de TV
 
 ### Scripts
-
 - [job Finder](http://romerorigger.com/projects/4GZE1?album_id=65845) - Buscador de empleo en CGI integrado a Autodesk Maya
 - [wire Deformer setup](http://romerorigger.com/projects/EWLmN?album_id=65845) — Creacion de un sistema de deformacion por capas con deformadores wire
 - [offset](http://romerorigger.com/projects/JYl8A?album_id=65845) - Creacion de grupos offset para elementos seleccionados
